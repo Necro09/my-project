@@ -3,3 +3,5 @@
 3. belajar javascript
 4. Belajar dengan tekun dan konsisten
 5. belajar framework codeigniter
+6. belajar php dan framework laravel
+7. belajar ajax dan jquery
