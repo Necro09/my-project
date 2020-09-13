@@ -1,1 +1,3 @@
-1. Saya harus bisa menjadi Web Developer yang handal
+1. Saya harus bisa menjadi Web Developer
+2. bisa belajar javascript
+3. bisa belajar php
